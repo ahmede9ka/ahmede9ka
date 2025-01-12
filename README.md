@@ -5,8 +5,8 @@ I'm a passionate **Software Developer**, **UI/UX Designer**, and **Community Bui
 ---
 
 ## 💼 **Current Projects**
-- 🔗 [Snei3i](https://github.com/yourusername/snei3i) — A MEAN stack platform connecting skilled workers with clients in Tunisia.
-- 💰 [Dar Dinar](https://github.com/yourusername/dardinar) — A financial management app to help users better manage their expenses.
+- 🔗 [Snei3i](https://github.com/Maher-Khemakhem/SNEI3I) — A MEAN stack platform connecting skilled workers with clients in Tunisia.
+- 💰 [Dar Dinar](https://github.com/ahmede9ka/Dar-Dinar) — A financial management app to help users better manage their expenses.
 
 
 ---
