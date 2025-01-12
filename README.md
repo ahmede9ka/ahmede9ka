@@ -46,7 +46,3 @@ I'm a passionate **developer** from Tunisia with a strong background in **compet
 💼 **LinkedIn:** [Ahmed Kallel](https://linkedin.com/in/ahmed-kallel-)  
 📧 **Email:** ahmed.kallel@etudiant-fst.utm.tn  
 
----
-
-## 🎨 **Fun Fact:**  
-I’m working on a **small business** offering **cute pillow designs** and bed covers! 🎀  
