@@ -6,15 +6,6 @@ I'm a passionate **developer** from Tunisia with a strong background in **compet
 
 ---
 
-## 💼 **Current Projects**  
-🔗 [**Snei3i**](https://github.com/Maher-Khemakhem/SNEI3I)  
-> 🛠 **MEAN Stack Platform** connecting skilled workers with clients in Tunisia.  
-
-💰 [**Dar Dinar**](https://github.com/ahmede9ka/Dar-Dinar)  
-> 📊 **Financial Management App** helping users track and optimize their expenses.
-
----
-
 ## 🚀 **Technical Skills**  
 
 ### 🖥️ **Frontend Development:**  
