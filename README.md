@@ -10,6 +10,7 @@ I'm a passionate **developer** from Tunisia with a strong background in **compet
 
 ### 🖥️ **Frontend Development:**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=flat&logo=chartdotjs&logoColor=white)
 
