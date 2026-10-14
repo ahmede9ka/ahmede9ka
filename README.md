@@ -1,105 +1,194 @@
-# 👋 **Hello, I'm Ahmed!**  
-![Profile Views](https://komarev.com/ghpvc/?username=ahmede9ka&color=green)  
-🌟 **Software Developer | UI/UX Designer | Community Builder**
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmed%20Kallel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Community%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="assets/header.svg" alt="Ahmed Kallel — Software Engineer, AI & Automation, Full-Stack" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+real-world+solutions+🚀;Full+Stack+Developer+from+Tunisia+🌍;UI%2FUX+Designer+with+an+eye+for+detail+🎨;Competitive+Programmer+%26+Problem+Solver+💡)](https://git.io/typing-svg)
+<br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ahmede9ka&color=38BDF8&style=flat-square&label=Profile+Views)](https://github.com/ahmede9ka)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Kallel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-kallel-)
-[![Email](https://img.shields.io/badge/Email-ahmed.kallel@etudiant--fst.utm.tn-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed.kallel@etudiant-fst.utm.tn)
+![Open to](https://img.shields.io/badge/Open_to-6--month_internship_2027-F4C95D?style=flat-square&labelColor=0f2330)
+![Studying](https://img.shields.io/badge/Studying-Software_Engineering_@_FST-38BDF8?style=flat-square&labelColor=0f2330)
+![Based in](https://img.shields.io/badge/Based_in-Tunisia-E70013?style=flat-square&labelColor=0f2330)
+![Views](https://komarev.com/ghpvc/?username=ahmede9ka&color=38BDF8&style=flat-square&label=Profile+Views&labelColor=0f2330)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Kallel-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f2330)](https://www.linkedin.com/in/ahmed-kallel-)
+[![Email](https://img.shields.io/badge/Email-ahmed.kallel@etudiant--fst.utm.tn-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0f2330)](mailto:ahmed.kallel@etudiant-fst.utm.tn)
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 👨‍💻 About Me
+## 01 // About
 
-> *"I strive to solve real-world problems through innovative solutions and community-driven projects."*
+```ts
+const ahmed = {
+  name: "Ahmed Kallel",
+  from: "Tunisia",
+  studying: "Software Engineering @ FST — engineering degree 2024–2027",
+  building: ["multi-agent RAG systems", "AI chatbots", "automation workflows"],
+  background: ["competitive programming", "distributed systems", "UI/UX"],
+  loves: ["fintech", "web platforms", "machine learning"],
+  lookingFor: "6-month end-of-studies internship (2027)",
+  openTo: "impactful, community-driven collaborations",
+};
+```
 
-- 🌍 Based in **Tunisia**, building for the world
-- 🏗️ Currently working on **Dinaruis** — a B2B crowdfunding platform for Tunisian businesses
-- 💡 Passionate about **fintech**, **web platforms**, and **machine learning**
-- 🎯 Background in **competitive programming** and **distributed systems**
-- 🤝 Open to collaboration on impactful, community-driven projects
+> *I strive to solve real-world problems through innovative solutions and community-driven projects.*
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🛠️ Tech Stack
+## 02 // Experience
 
-### 🖥️ Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white)
+| When | Where | What I built |
+|:-----|:------|:-------------|
+| `Summer 2026` | **Talan** | *Immobili'IA* — a multi-agent RAG platform, including a legal assistance component |
+| `Summer 2026` | **Sofiatech** | HR document automation system |
+| `Feb – Apr 2026` | **Citable** *(part-time)* | AI chatbot and automation workflows with **n8n** |
+| `Summer 2025` | **Oratio Technologies** | UI/UX and frontend for a legal AI chatbot platform |
 
-### 🖧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="assets/divider.svg" width="100%" alt="" />
 
-### 🎨 Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+## 03 // Community & Leadership
 
-### 🧰 Tools & Practices
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>📣 Optima JE</h3>
+<sub><code>Sept 2024 – June 2026</code></sub>
+<p>Marketing Manager of the junior enterprise.</p>
+</td>
+<td width="33%" valign="top">
+<h3>💻 GDG on Campus FST</h3>
+<sub><code>2024 – 2025</code></sub>
+<p>Competitive Programming Lead.</p>
+</td>
+<td width="33%" valign="top">
+<h3>🥇 IEEE Xtreme 18.0</h3>
+<sub><code>Competitive programming</code></sub>
+<p>Ranked <b>1st at university level</b>.</p>
+</td>
+</tr>
+</table>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🚀 Featured Projects
+## 04 // Stack
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**Dinaruis**](https://github.com/ahmede9ka/Dinaruis) | 💰 B2B crowdfunding platform connecting Tunisian businesses with investors | HTML, JS |
-| [**Dar Dinar**](https://github.com/ahmede9ka/Dar-Dinar) | 🏦 Financial management app designed specifically for Tunisian users | PHP |
-| [**Snei3i**](https://github.com/Maher-Khemakhem/SNEI3I) | 🔧 Platform connecting skilled workers with clients in Tunisia | CSS, JS |
-| [**Travel Agency**](https://github.com/ahmede9ka/travel-agency) | ✈️ Full travel agency website | HTML |
-| [**Diabetes Prediction**](https://github.com/ahmede9ka/Diabetes-Prediction) | 🩺 SVM-based machine learning model for diabetes detection | Python / Jupyter |
-| [**Rock vs Mine Predictor**](https://github.com/ahmede9ka/rock-vs-mine-predictor) | 🪨 Logistic regression classifier for sonar data | Python |
+<table>
+<tr>
+<td width="140"><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Angular-0f2330?style=flat-square&logo=angular&logoColor=DD0031" />
+<img src="https://img.shields.io/badge/Next.js-0f2330?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0f2330?style=flat-square&logo=tailwindcss&logoColor=38B2AC" />
+<img src="https://img.shields.io/badge/Chart.js-0f2330?style=flat-square&logo=chartdotjs&logoColor=F5788D" />
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-0f2330?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-0f2330?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-0f2330?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-0f2330?style=flat-square&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/MongoDB-0f2330?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/SQL-0f2330?style=flat-square&logo=mysql&logoColor=4479A1" />
+</td>
+</tr>
+<tr>
+<td><b>AI & Automation</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-0f2330?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/n8n-0f2330?style=flat-square&logo=n8n&logoColor=EA4B71" />
+<img src="https://img.shields.io/badge/Google_Apps_Script-0f2330?style=flat-square&logo=google&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/Jupyter-0f2330?style=flat-square&logo=jupyter&logoColor=F37626" />
+<br/>
+<sub><code>RAG</code> · <code>Multi-agent systems</code> · <code>Chatbots</code> · <code>Workflow automation</code> · <code>Machine learning</code></sub>
+</td>
+</tr>
+<tr>
+<td><b>Design</b></td>
+<td>
+<img src="https://img.shields.io/badge/Figma-0f2330?style=flat-square&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/Photoshop-0f2330?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" />
+<img src="https://img.shields.io/badge/Illustrator-0f2330?style=flat-square&logo=adobeillustrator&logoColor=FF9A00" />
+<img src="https://img.shields.io/badge/Canva-0f2330?style=flat-square&logo=canva&logoColor=00C4CC" />
+</td>
+</tr>
+<tr>
+<td><b>Practices</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-0f2330?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Agile-0f2330?style=flat-square&logo=jira&logoColor=0052CC" />
+</td>
+</tr>
+</table>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 📊 GitHub Stats
+## 05 // Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ahmede9ka/Dinaruis">💰 Dinaruis</a></h3>
+<p>B2B crowdfunding platform connecting Tunisian businesses with investors.</p>
+<code>HTML</code> <code>JS</code>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ahmede9ka/Dar-Dinar">🏦 Dar Dinar</a></h3>
+<p>Financial management app designed specifically for Tunisian users.</p>
+<code>PHP</code>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3><a href="https://github.com/Maher-Khemakhem/SNEI3I">🔧 Snei3i</a></h3>
+<p>Platform connecting skilled workers with clients in Tunisia.</p>
+<code>CSS</code> <code>JS</code>
+</td>
+<td valign="top">
+<h3><a href="https://github.com/ahmede9ka/travel-agency">✈️ Travel Agency</a></h3>
+<p>Full travel agency website.</p>
+<code>HTML</code>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3><a href="https://github.com/ahmede9ka/Diabetes-Prediction">🩺 Diabetes Prediction</a></h3>
+<p>SVM-based machine learning model for diabetes detection.</p>
+<code>Python</code> <code>Jupyter</code>
+</td>
+<td valign="top">
+<h3><a href="https://github.com/ahmede9ka/rock-vs-mine-predictor">🪨 Rock vs Mine Predictor</a></h3>
+<p>Logistic regression classifier for sonar data.</p>
+<code>Python</code>
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 06 // GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmede9ka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmede9ka&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmede9ka&show_icons=true&hide_border=false&count_private=true&border_radius=12&bg_color=0f2330&border_color=1b3a4b&title_color=38BDF8&text_color=bcd3e0&icon_color=F4C95D" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmede9ka&layout=compact&hide_border=false&border_radius=12&bg_color=0f2330&border_color=1b3a4b&title_color=38BDF8&text_color=bcd3e0" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahmede9ka&background=0f2330&border=1b3a4b&ring=38BDF8&fire=F4C95D&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38BDF8&sideLabels=bcd3e0&dates=6b8798&hide_border=false)](https://git.io/streak-stats)
+
+![Pull Shark x2](https://img.shields.io/badge/🦈_Pull_Shark-x2-38BDF8?style=flat-square&labelColor=0f2330)
+![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-Achieved-F4C95D?style=flat-square&labelColor=0f2330)
+![YOLO](https://img.shields.io/badge/🎲_YOLO-Achieved-E70013?style=flat-square&labelColor=0f2330)
 
 </div>
 
-<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmede9ka&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+## 07 // Let's Build Something
 
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Pull Shark x2](https://img.shields.io/badge/🦈_Pull_Shark-x2-blue?style=for-the-badge)
-![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-Achieved-yellow?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/🎲_YOLO-Achieved-red?style=for-the-badge)
-
-</div>
-
----
-
-## 🤝 Let's Connect
+Open to collaboration on impactful, community-driven projects — and to a 6-month end-of-studies internship in 2027. If you're working on AI, automation, or fintech problems that matter, say hello.
 
 <div align="center">
 
@@ -107,14 +196,8 @@
 [![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.kallel@etudiant-fst.utm.tn)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmede9ka)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
-
-*"Code is not just syntax — it's a solution waiting to happen."*
+<img src="assets/footer.svg" alt="Code is not just syntax — it's a solution waiting to happen." width="100%" />
 
 </div>
