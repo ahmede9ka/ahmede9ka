@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Ahmed Kallel — Software Engineer, AI & Automation, Full-Stack" width="100%" />
+<img src="header.svg" alt="Ahmed Kallel — Software Engineer, AI & Automation, Full-Stack" width="100%" />
 
 <br/>
 
@@ -33,7 +33,7 @@ const ahmed = {
 
 > *I strive to solve real-world problems through innovative solutions and community-driven projects.*
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 02 // Experience
 
@@ -68,7 +68,7 @@ const ahmed = {
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 04 // Stack
 
@@ -122,7 +122,7 @@ const ahmed = {
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 05 // Selected Projects
 
@@ -165,7 +165,7 @@ const ahmed = {
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 06 // GitHub Activity
 
@@ -184,7 +184,7 @@ const ahmed = {
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 07 // Let's Build Something
 
@@ -198,6 +198,6 @@ Open to collaboration on impactful, community-driven projects — and to a 6-mon
 
 <br/>
 
-<img src="assets/footer.svg" alt="Code is not just syntax — it's a solution waiting to happen." width="100%" />
+<img src="footer.svg" alt="Code is not just syntax — it's a solution waiting to happen." width="100%" />
 
 </div>
